@@ -1,9 +1,9 @@
 import React from "react";
 import Sidebar from "../../layouts/Sidebar";
-import PersonalInfoEdit from "./PersonalInfoEdit";
+import PersonalInfo from "./PersonalInfo";
 
 export default () => (
   <Sidebar>
-    <PersonalInfoEdit />
+    <PersonalInfo />
   </Sidebar>
 );
